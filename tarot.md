@@ -9,7 +9,7 @@ Torment - The Key of Torments
 - Thirteen people around a dark fire, each with an arm extended over the fire, each hand holding the arm to the left over the fire?
 
 Walk through the Fire - The Key of Torches
-- A doorway filled with fire, a student with a gold ring on their little finger
+- An archway filled with fire, a student with a gold ring on their little finger stepping through, not being burnt.
 
 Bedlam
 
@@ -34,14 +34,6 @@ The Shadow
 Ascended Masters
 
 The Akashic Record?
-
-Earth
-
-Air
-
-Fire
-
-Water
 
 Darkness
 
@@ -141,7 +133,6 @@ The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new
 
 The Ace of Torches - The Burning Bush - A figure standing on a plain by a tree which is burning but not being consumed.
 
-
 The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, the sky red, bloody footprints leading from the cross down the hill.
 
 The Throne of Torches - An empty white marble throne in paradise.
@@ -181,3 +172,7 @@ The Three of Crescents - (Like the Two of Swords) A woman with closed eyes, two 
 - Waves of troops
 - Radio
 - The classical winds/trade winds/siroccos/whirlwinds
+
+The Ace of Waves - Transmigration - A robed figure with closed eyes pouring a stream of liquid between two cups. The ground is sand. On the left cup the liquid is blue, and on the right the liquid is red. The figure is standing in a stone archway with cracked stone walls on either side, facing forwards, with the left foot slightly forwards, the toes of the left foot touching a completely still sea encroaching on the sand.
+
+The Nemesis of Waves - A tipped over cup with water puddled on the floor, a line of water raising into the air and surrounding a floating, indistinct figure, like a cocoon. The figures arms are crossed across its chest.
