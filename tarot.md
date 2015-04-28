@@ -3,10 +3,13 @@ Here I present my personal system of Tarot. One hundred and eleven cards, with s
 #Trumps
 
 Frag - The Key of Crescents
-- A man between two mirrors, an old man reflected in the mirror on his left and a child on his right, being stabbed through with two lances, which pierce the opposite mirrors, taking the youth in the leg and the old man in the face. The mirrors are cracked. There are six broken reflections of the moon in each mirror, and one in the sky. The moon is a crescent.
+- A young man between two mirrors, an old man reflected in the mirror on his left and a child on his right, both holding lances that extend out of the mirror and stab through the young man, pierce the opposite mirrors, and take the youth in the leg and the old man in the face. The mirrors are cracked. There are six broken reflections of the moon in each mirror, and one in the sky. The moon is a crescent.
 
 Torment - The Key of Torments
-- Thirteen people around a fire, each with an arm extended over the fire, each hand holding the arm to the left over the fire?
+- Thirteen people around a dark fire, each with an arm extended over the fire, each hand holding the arm to the left over the fire?
+
+Walk through the Fire - The Key of Torches
+- A doorway filled with fire, a student with a gold ring on their little finger
 
 Bedlam
 
@@ -64,6 +67,8 @@ The Principle of Eve - The Universal Unconscious
 
 Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne. The Keys can also be counted as Court cards or as Trumps, depending on the reading.
 
+The suits are Torments, Eyes, Torches, Waves, Gems, Roses and Crescents.
+
 ###Patterns
 
 ####Longitudinal Patterns
@@ -86,6 +91,7 @@ Images: Statues of ugly creatures with Gods inside
 
 7 cards long, these are patterns formed across suits. The value of each card (ie Ace, 3, Nemesis) is the most obvious transverse pattern.
 
+Each suit also corresponds to a basic alchemical element.
 
 There is one card in each suit related to hand-to-hand martial arts, and another related to sword, dagger or similar arts.
 
@@ -94,6 +100,14 @@ The alchemical planets: The Sun rules Gold; The Moon, Silver; Mercury, Quicksilv
 Folk magic.
 
 The 'powers of concentration' aka psychic practices.
+
+Torments: Sulfur
+Eyes: Salt
+Torches: Fire
+Waves: Water
+Gems: Earth
+Roses: Air
+Crescents: Mercury
 
 
 
@@ -121,9 +135,14 @@ The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new
 - The Sun
 - Comets
 - Trees
+- Faith
+- Candles
 - Language: Greek
 
-The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, bloody footprints leading to 
+The Ace of Torches - The Burning Bush - A figure standing on a plain by a tree which is burning but not being consumed.
+
+
+The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, the sky red, bloody footprints leading from the cross down the hill.
 
 The Throne of Torches - An empty white marble throne in paradise.
 
