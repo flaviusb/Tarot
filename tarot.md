@@ -23,22 +23,6 @@ The Outer Darkness - The Key of Eyes
 
 The Incarna
 
-The Gates of Ivory and Horn?
-
-Hell
-
-Heaven
-
-The Shadow
-
-Ascended Masters
-
-The Akashic Record?
-
-Darkness
-
-Light
-
 Judgement/Anthelios
 
 The Enemy
