@@ -145,6 +145,7 @@ The Three of Crescents - (Like the Two of Swords) A woman with closed eyes, two 
 ##Gems
 - The Stars
 - Chisels, magnifying glasses
+- Glowing gem tones
 
 ##Waves
 - Wine
