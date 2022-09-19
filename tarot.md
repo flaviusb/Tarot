@@ -16,17 +16,15 @@ Walk through the Fire - The Key of Torches
 
 Bedlam
 
-The Neverborn/Malfeans
+The Dead Dreaming Primordials
 
-The Mouth of the Void?
+The Mouth of the Void
 
 The Void
 
 The Outer Darkness - The Key of Eyes
 
-The Incarna
-
-Judgement/Anthelios
+The Zodiac
 
 The Enemy
 
