@@ -1,6 +1,9 @@
 Here I present my personal system of Tarot. One hundred and eleven cards, with seven suits, ten pip cards and two court cards per suit, and twenty seven trumps, seven of which can alternatively be counted as court cards.
 
-#Trumps
+A note on facings:
+  'Usual' Tarot has upright and reversed facings. My system has eight facings. This necessitates square double sided cards, with the two sidings being chiral. You would typically cover the cards in a circularly polarised opaque cover, and reveal the cards by illuminating them with light of the correct circular polarisation. The eight facings are heaven (elevation, tribulation, the system of the universe, crown, etc etc), lake (protection, dissipation, ...), radiance, thunder (in the sense of Daoist Thunder Magic eg righteousness, exorcism, ...), the deep ocean (the sotadic zone etc...), mountain, earth (in the sense of 'heaven and earth', ...).
+
+# Trumps
 
 Frag - The Key of Crescents
 - A young man between two mirrors, an old man reflected in the mirror on his left and a child on his right, both holding lances that extend out of the mirror and stab through the young man, pierce the opposite mirrors, and take the youth in the leg and the old man in the face. The mirrors are cracked. There are six broken reflections of the moon in each mirror, and one in the sky. The moon is a crescent.
@@ -39,15 +42,15 @@ The Principle of Eve - The Universal Unconscious
 
 27 Trumps, with 7 being also Keys of each Suit.
 
-#7 suits
+# 7 suits
 
 Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne. The Keys can also be counted as Court cards or as Trumps, depending on the reading.
 
 The suits are Torments, Eyes, Torches, Waves, Gems, Roses and Crescents.
 
-###Patterns
+### Patterns
 
-####Longitudinal Patterns
+#### Longitudinal Patterns
 
 13 cards long, these are patterns which dominate a Suit. The Suit itself is the most obvious longitudinal pattern.
 
@@ -63,7 +66,7 @@ The Olympian Gods/Scenes from relevant myths
 Aristia, Hubris, Arete, Agape
 Images: Statues of ugly creatures with Gods inside
 
-####Transverse Patterns
+#### Transverse Patterns
 
 7 cards long, these are patterns formed across suits. The value of each card (ie Ace, 3, Nemesis) is the most obvious transverse pattern.
 
@@ -86,15 +89,27 @@ Roses: Air
 Crescents: Mercury
 
 
+#### Number patterns
 
-#Symbols to be assigned
+Modulo 2:
+   for n is Pip card number ∈ [1 - 12]
+     n % 2 = 0
+     n % 2 = 1
+
+Modulo 3:
+  for n is Pip card number ∈ [2 - 10]
+    n % 3 = 0
+    n % 3 = 1
+    n % 3 = 2
+
+# Symbols to be assigned
 
 Pouring liquid from one vessel to another - metempsychosis
 Psychopomp
 
 
 
-##Eyes
+## Eyes
 - Shadows and light
 - Outsiders
 - Conspiracy
@@ -107,7 +122,7 @@ The Nine of Eyes - Nine figures sit in a board room, around a board room table. 
 
 The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new testament desert robes, with only one hand (the left), as his right arm finishes in a burnt, blackened stump. He is wearing a blindfold with blood coming out from underneath it, and clutching his side as blood wets his clothes, in a desert tiled in black and yellow squares, being lifted by a giant burnt right hand to be placed on a square.
 
-##Torches
+## Torches
 - The Sun
 - Comets
 - Trees
@@ -123,7 +138,7 @@ The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, the sk
 
 The Throne of Torches - An empty white marble throne in paradise.
 
-##Torments
+## Torments
 - Barbed Wire
 - Straight blades - straight razors, uncurved swords
 - Whips/Scourges
@@ -132,24 +147,24 @@ The Three of Torments - Three longswords, hilt first in the ground, before a man
 
 The Five of Torments - Strike from Emptiness - A Japanese woman in a business suit with a skirt surrounded by four men wearing business suits. The men all have katanas raised in the initial position for overhead strikes. The woman has drawn her katana and bisected all four men. Her face is turned away. The men's faces are indistinct.
 
-##Roses
+## Roses
 - Thorns
 - The Full Moon
 
 The Throne of Roses - Siddhartha sitting in full lotus upon a bed of roses. The moon is full in the sky above him. His eyes are closed.
 
-##Crescents
+## Crescents
 - The Crescent Moon
 - Mirrors
 
 The Three of Crescents - (Like the Two of Swords) A woman with closed eyes, two scimitars crossed protectively across her chest, wearing a white robe. The crescent moon hangs in the sky above her head.
 
-##Gems
+## Gems
 - The Stars
 - Chisels, magnifying glasses
 - Glowing gem tones
 
-##Waves
+## Waves
 - Wine
 - The Sea
 - The Dark Moon
