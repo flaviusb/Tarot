@@ -58,8 +58,6 @@ The suits are Torments, Eyes, Torches, Waves, Gems, Roses and Crescents.
 The Ace and the Nemesis are 'the same', though the Ace is the start and the Nemesis is the inversion, turning away, rejection or antimony of the meaning of the suit.
 
 
-Each Suit corresponds to one major grouping of Occult Traditions. The Seven Traditions are Hermeticism (Waves?), Arab/Christian/Druze/Zoroastrian Esotericism (Torches), Buddhist/Tibetan/Meditative (Roses), Kaballism/Early Medieval Magic (Gems?), Alchemy? (Crescents?), Voodoo/Obeah (Torments?), The Demiurge/MKUltra/The Illuminati/Freemasonry/Secret Societies/Lodges (Eyes).
-
 The Zodiac
 
 The Olympian Gods/Scenes from relevant myths
@@ -93,14 +91,14 @@ Crescents: Mercury
 
 Modulo 2:
    for n is Pip card number ∈ [1 - 12]
-     n % 2 = 0
-     n % 2 = 1
+-    n % 2 = 0
+-    n % 2 = 1
 
 Modulo 3:
   for n is Pip card number ∈ [2 - 10]
-    n % 3 = 0
-    n % 3 = 1
-    n % 3 = 2
+-    n % 3 = 0
+-    n % 3 = 1
+-    n % 3 = 2
 
 # Symbols to be assigned
 
